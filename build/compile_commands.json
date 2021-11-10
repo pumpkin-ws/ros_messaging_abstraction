@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ws/spark-projects/ros_messaging_abstraction/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/ros-general-template.dir/main.cpp.o -c /home/ws/spark-projects/ros_messaging_abstraction/main.cpp",
+  "file": "/home/ws/spark-projects/ros_messaging_abstraction/main.cpp"
+}
+]

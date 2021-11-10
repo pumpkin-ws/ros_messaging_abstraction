@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/ros-general-template.dir/main.cpp.o  -o ros-general-template 

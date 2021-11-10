@@ -1,0 +1,4 @@
+1 - Start this project in github
+2 - Use more advanced package management with cmake, look into the cmake book and see what I use.
+3 - Use ros messaging
+
